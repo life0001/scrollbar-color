@@ -10,25 +10,27 @@ element ::-webkit-scrollbar {
 ::-webkit-scrollbar-thumb {
     background-color: #6a8bfa;
 }
-::-webkit-scrollbar-button:start:decrement, ::-webkit-scrollbar-button:end:increment{width:10px;height:10px; }   //上下箭头宽度和高度设置
+::-webkit-scrollbar-button:start:decrement, ::-webkit-scrollbar-button:end:increment{
+    width:10px;height:10px; //上下箭头宽度和高度设置
+}   
 ::-webkit-scrollbar-button:vertical:decrement{
-    background:url(../img/bg.png) -29px -10px;
-}  //上箭头样式设置
+    background:url(../img/bg.png) -29px -10px;  //上箭头样式设置
+}  
 ::-webkit-scrollbar-button:vertical:decrement:hover{
-    background-position: -29px 0;
-}          //上箭头事件样式设置
+    background-position: -29px 0;  //上箭头事件样式设置
+}          
 ::-webkit-scrollbar-button:vertical:increment{
-    background:url(../img/bg.png) -20px -10px;
-}    //下箭头样式设置
+    background:url(../img/bg.png) -20px -10px;   //下箭头样式设置
+}    
 ::-webkit-scrollbar-button:vertical:increment:hover{
-    background-position: -20px 0;
-}          //下箭头事件样式设置
+    background-position: -20px 0;  //下箭头事件样式设置
+}          
 ::-webkit-scrollbar-thumb:vertical{
-    height:100px;background:#d0d0d0;
-}  //底部背景色
+    height:100px;background:#d0d0d0;   //底部背景色
+}  
 ::-webkit-scrollbar-thumb:vertical:hover{
-    background:#aaaaab;
-}         //底部背景色鼠标事件
+    background:#aaaaab;   //底部背景色鼠标事件
+}         
 ::-webkit-scrollbar-thumb:horizontal{
     width:80px;height:10px;background-color:#ccc;
 }
