@@ -1,4 +1,4 @@
-# scrollbar-color       自定义滚动条
+# scrollbar-color   自定义滚动条  不兼容火狐浏览器
 <pre>
 /*      启用自定义滚动条设置      */
 element ::-webkit-scrollbar {
