@@ -1,4 +1,4 @@
-# scrollbar-color
+# scrollbar-color       自定义滚动条
 <pre>
 /*      启用自定义滚动条设置      */
 element ::-webkit-scrollbar {
