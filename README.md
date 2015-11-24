@@ -38,4 +38,4 @@ element ::-webkit-scrollbar {
 
 <a href="http://www.lyblog.net/detail/314.html" target="_blank">1. webkit 内核浏览器滚动条颜色设置</a><br/>
 <a href="http://passer-by.com/widget/jquery-scrollbar/" target="_blank">2. js模拟滚动条</a>
- 
+<a href="http://edu.cnzz.cn/201212/836936e7.shtml">webkit滚动条详解</a>
